@@ -1,0 +1,24 @@
+body{
+	background: url(img27.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1{
+	color: white;
+	font-weight: 400;
+	text-align: center; 
+}
+
+.myform{
+	background:white;
+	width: 75%;
+	size: 100%;
+	padding: 25px 25px 25px 25px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.form-group{
+	margin-top: 20px;
+}
